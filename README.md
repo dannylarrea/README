@@ -60,7 +60,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
-[Crear una nueva release para el proyecto acabado (este elemento se encuentra en el apartado About del repositorio) utilizando [SemVer](http://semver.org/) para el tag de la release]
+[Crear una nueva [Release](https://docs.github.com/es/repositories/releasing-projects-on-github/about-releases) para el proyecto acabado (este elemento se encuentra en el apartado About del repositorio) utilizando [SemVer](http://semver.org/) para el tag de la [Release](https://docs.github.com/es/repositories/releasing-projects-on-github/about-releases)]
 
 ## Autores ✒️
 
